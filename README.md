@@ -17,3 +17,5 @@ I'm a software Engineer, Content Creator and a student of AltSchool Africa. I'm 
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=oderinde300&show_icons=true&include_all_commits=true&hide_border=true" alt="Emmanuel's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oderinde300&langs_count=8&layout=compact&hide_border=true" alt="Emmanuel's GitHub stats" /> |
 | ------------- | ------------- |
+
+<a href="https://app.daily.dev/emma_tobiloba"><img src="https://api.daily.dev/devcards/208622779e5f4407ab3a9a74f640aef0.png?r=7l3" width="400" alt="Oderinde Oluwatobiloba's Dev Card"/></a>
