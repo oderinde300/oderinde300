@@ -4,8 +4,6 @@
 
 I'm a software Engineer, Content Creator and a student of AltSchool Africa. I'm passionate about acquring knowledge, documentation, web engineering and building beautiful responsive websites with react and tailwind css. I create techinal content and document my tech journey ( on my [twitter handle], (https://twitter.com/Emma_tobiloba) ), I'm an open source project contributor and also a member of some technical communities... 
 
-<a href="https://app.daily.dev/emma_tobiloba"><img src="https://api.daily.dev/devcards/208622779e5f4407ab3a9a74f640aef0.png?r=7l3" width="400" alt="Oderinde Oluwatobiloba's Dev Card"/></a>
-
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
